@@ -1,4 +1,5 @@
 import frankenmillerlogo from "./frankenmillerlogo.png";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -32,6 +33,7 @@ import tripguide from "./tripguide.png";
 
 export {
   frankenmillerlogo,
+  logo,
   backend,
   creator,
   mobile,
